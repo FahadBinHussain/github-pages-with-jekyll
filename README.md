@@ -1,5 +1,9 @@
 # Your GitHub Learning Lab Repository for GitHub Pages
 
+<img src="https://wakapi-qt1b.onrender.com/api/badge/fahad/interval:any/project:github-pages-with-jekyll" 
+     alt="Wakapi Time Tracking" 
+     title="Spent more than that amount of time spent on this project">
+
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
 
 Oh! I haven't introduced myself...
