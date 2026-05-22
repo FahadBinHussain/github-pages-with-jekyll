@@ -15,3 +15,9 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+## Contributors
+
+<a href="https://github.com/FahadBinHussain/github-pages-with-jekyll/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FahadBinHussain/github-pages-with-jekyll" alt="Contributors" />
+</a>
